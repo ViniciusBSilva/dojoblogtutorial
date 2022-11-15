@@ -1,7 +1,7 @@
-#Dojo Blog Tutorial
+# Dojo Blog Tutorial
 
-##Tutorial from 
+## Tutorial from 
 https://www.youtube.com/watch?v=kVeOpcw4GWY&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=2
 
-##Full code 
+## Full code 
 https://github.com/iamshaunjp/Complete-React-Tutorial
